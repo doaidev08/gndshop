@@ -694,6 +694,9 @@ button.cardadd:hover{
 		width: 90% !important;
 		
 	}
+	.page_welcome{
+		display:none;
+	}
 	.animation_content{
 		display: none;
 	}
